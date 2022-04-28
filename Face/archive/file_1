@@ -1,0 +1,34 @@
+<CTYPE html>
+<html>
+	<title>The Tufts Face Database</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="styles.css">
+
+	<body>
+		<div id="header-container" class="header-container">
+			<h1>The Tufts Face Database</h1>
+		</div>
+		
+		<div id="sub-header-container" class="sub-header-container"></div>
+
+		<div id="main" class="main" style:"overflow:auto">     
+			<p>The first known comprehensive heterogeneous face database is created that includes many different types of image modalities: photographic images, a computerized facial sketch created from a portrait sitting of the participant using the FACEs software, thermal images, near infrared (NIR) images, and a 3D image of the participant. The goal of this database is to provide researchers developing new recognitions algorithms with a platform to use as a benchmark to validate performance and accuracy.</p>
+			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfp9Vo4_uuhhVvLB6SdLhbcoKqHDS3wICnl4LmjIEzCCf_2DQ/viewform?embedded=true" width="640" height="680" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+		</div>
+		<div id=footer" class="footer">
+			Dr. Karen Panetta Lab
+		</div>	
+	</body>
+</html>
+
+
+
+
+
+
+
+
